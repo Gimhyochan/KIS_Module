@@ -1,4 +1,4 @@
-from KIS_Credential import KIS
+from KIS_Credentials import KIS
 import requests
 import json
 import time

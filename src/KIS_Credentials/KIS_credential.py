@@ -35,7 +35,7 @@ class KIS:
     def _register(self):
         self.appkey = input("App Key: ")
         self.appsecret = input("App Secret: ")
-        logger.warning(f"Confimation\nappkey: \"{self.appkey}\"\nappsecret: \"{appsecret}\"")
+        logger.warning(f"Confimation\nappkey: \"{self.appkey}\"\nappsecret: \"{self.appsecret}\"")
 
     def _config(self):
         logger.warning("Use this on TRUSTED DEVICE")
