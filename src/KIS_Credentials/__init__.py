@@ -1,1 +1,1 @@
-from .KIS_credential import KIS
+from .KIS_credential import KIS, hashkey
